@@ -1,0 +1,7 @@
+{
+  "difficulty": [
+    { "level": 1, "spawnRate": 0.8, "timeLimit": 60, "goal": 10 },
+    { "level": 2, "spawnRate": 0.6, "timeLimit": 50, "goal": 15 },
+    { "level": 3, "spawnRate": 0.4, "timeLimit": 40, "goal": 20 }
+  ]
+}
