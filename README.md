@@ -1,5 +1,5 @@
 # farmer-game
-# Farmer Harvest Game – Advanced Features (AREADME)
+# Farmer Harvest Game – Advanced Features 
 
 This document summarizes the advanced features added to the game, explains how to run it, and identifies where **arrow functions**, **`this`**, and **`.bind`** were used.
 
